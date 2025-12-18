@@ -49,13 +49,17 @@
   
   <br/>
   <br/>
-  
-  ## 🤔 Github Stats
-  [![한지형's GitHub statst(https://github-readme-stats.vercel.app/api?username=hanjyeong)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanjyeong)](https://github.com/anuraghazra/github-readme-stats)   
 
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wg1004s)](https://solved.ac/wg1004s)
+<h2> 🤔 Github Stats</h2>
 
+<div style="display:flex; gap:12px; align-items:stretch;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=hanjyeong" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanjyeong&layout=compact" />
+  </a>
+</div>
 
 
 
