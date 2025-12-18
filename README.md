@@ -50,14 +50,19 @@
   <br/>
   <br/>
 
-<h2> 🤔 Github Stats</h2>
+<h2>🧐Github Stats</h2>
 
-<div style="display:flex; gap:12px; align-items:stretch;">
+<div style="display:flex; flex-wrap:wrap; gap:12px; align-items:stretch;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=hanjyeong" />
   </a>
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanjyeong&layout=compact" />
+  </a>
+
+  <a href="https://solved.ac/wg1004s">
+    <img height="180" src="http://mazassumnida.wtf/api/generate_badge?boj=wg1004s" />
   </a>
 </div>
 
