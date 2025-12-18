@@ -51,11 +51,10 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanjyeong)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanjyeong)](https://github.com/anuraghazra/github-readme-stats)
+  [![한지형's GitHub statst(https://github-readme-stats.vercel.app/api?username=hanjyeong)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanjyeong)](https://github.com/anuraghazra/github-readme-stats)    [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wg1004s)](https://solved.ac/wg1004s)
 
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wg1004s)](https://solved.ac/wg1004s)
+
 
 
 </div>
