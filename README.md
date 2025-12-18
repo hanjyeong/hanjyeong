@@ -44,12 +44,6 @@
   <br/>
   <br/>
   
-   ##  🚀 Projects
-
-  
-  <br/>
-  <br/>
-
 <h2>🧐Github Stats</h2>
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:stretch;">
@@ -66,6 +60,11 @@
   </a>
 </div>
 
+ ## 🚀 Projects
+
+| Period | Project | Explanation | Role | Tech Stack |
+|---|---|---|---|---|
+| 2024.05 ~ 2025.03 |[동구라미] | 동아리 지원, 홍보 및 동아리원 관리 서비스 | 백엔드 팀원| Java, Spring Boot, MySQL, Redis,<br>AWS EC2/RDS/S3|
 
 
 
