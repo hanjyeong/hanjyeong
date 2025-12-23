@@ -14,9 +14,8 @@
 <br/><br/>
 
 ## 🍥Contact me🍥
-[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-03C75A?style=flat&logo=velog&logoColor=white)](https://YOUR_BLOG_URL)
+[![VELOG](https://img.shields.io/badge/VELOG-20C997?style=flat&logo=velog&logoColor=white)](https://YOUR_BLOG_URL)
 [![wg1004s@naver.com](https://img.shields.io/badge/wg1004s%40naver.com-03C75A?style=flat&logo=naver&logoColor=white)](mailto:wg1004s@naver.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 
 </div>
 
