@@ -1,22 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6F42C1,100:A855F7&height=250&section=header&text=hanjyeong%27s%20GitHub&fontColor=FFFFFF&fontSize=50)
 
-
-
-
-
-
-
-
-<div align="center">
-
 <h3>꾸준한 성장을 위해 노력하는 백엔드 개발자 한지형입니다👋</h3>
 <h4>실생활의 불편을 코드로 해결해 더 나은 경험을 만듭니다</h4>
 
 <br/>
 
+<div align="center">
+
 ## 🍥 Contact me 🍥
 [![VELOG](https://img.shields.io/badge/VELOG-20C997?style=flat&logo=velog&logoColor=white)](https://YOUR_BLOG_URL)
 [![wg1004s@naver.com](https://img.shields.io/badge/wg1004s%40naver.com-20C997?style=flat&logo=naver&logoColor=white)](mailto:wg1004s@naver.com)
+
+</div>
+
+<br/><br/>
 
 ## 🧱 Tech Stack
 
@@ -41,7 +38,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 </div>
-
 
 <br/><br/>
 
