@@ -84,7 +84,7 @@
       <td style="text-align:center; white-space:nowrap;">백엔드</td>
       <td>
         회원가입·로그인, 이메일 인증(토큰/만료 처리)<br/>
-        Redis 캐싱으로 응답시간 개선
+        Redis를 이용한 도메인 분리 전략 적용
       </td>
       <td>Java, Spring Boot, MySQL, Redis,<br/>AWS EC2/RDS/S3</td>
     </tr>
