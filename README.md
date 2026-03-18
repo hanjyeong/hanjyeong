@@ -91,7 +91,7 @@
     <tr>
       <td style="text-align:center; white-space:nowrap;">2025.09~2025.11</td>
       <td style="text-align:center; white-space:nowrap;">
-        <a href="https://github.com/hanjyeong/TrustTrade" style="color:#6F42C1; text-decoration:none;">
+        <a href="https://github.com/hanjyeong/trustTrade-backend" style="color:#6F42C1; text-decoration:none;">
           🥕사장님 당근해요
         </a>
       </td>
